@@ -98,6 +98,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
+.medium-font {
+  font-size: 75px;
+  text-align: center;
+}
 .space-around {
   margin-top: 100px;
   margin-bottom: 100px;
