@@ -98,6 +98,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+  background-color: #999;
+}
 h1 {
   font-size: 150px;
   font-family: 'Cinzel', serif;
