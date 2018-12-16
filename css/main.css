@@ -14,6 +14,7 @@ html {
   color: #888;
   font-size: 1em;
   line-height: 1.4;
+ 
 }
 
 /*
@@ -99,10 +100,9 @@ textarea {
 
 h1 {
   font-size: 150px;
+  font-family: 'Cinzel', serif;
 }
-.spicy {
-  color: red;
-}
+
 
 /* ==========================================================================
    Helper classes
