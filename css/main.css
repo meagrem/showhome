@@ -98,6 +98,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
 
 .Picture-placement {
   margin-top: 100px;
